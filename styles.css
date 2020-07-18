@@ -37,7 +37,7 @@ a:hover {
   font-weight: 700;
   list-style-type: none;
   margin: 0 auto;
-  padding: 0;
+  padding: 5;
 }
 
 .nav .name {
@@ -62,6 +62,7 @@ header {
   background-size: cover;
   overflow: hidden;
   padding-top: 60px; 
+  
 }
 header {
   line-height: 1.5;
